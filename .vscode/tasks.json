@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Workspace",
+			"type": "shell",
+			"command": "echo No build step defined for static HTML/CSS/JS site.",
+			"group": "build"
+		}
+	]
+}
